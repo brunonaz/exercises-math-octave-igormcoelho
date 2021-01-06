@@ -13,7 +13,5 @@ endfunction
 
 # Exercise 2: write the correct answer on variable 'sol'
 function sol = exercise2()
-   syms x;                       # declare symbolic variable x
-   intg = x^2/2;                 # solution to exercise one: integral of h(x) = x^2/2
-   sol = function_handle (intg); # converts symbolic into a real function
+   # no solution yet... you need to fix this!
 endfunction
